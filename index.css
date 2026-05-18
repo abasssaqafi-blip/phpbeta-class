@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+    background-color: rgb(8, 12, 44);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+h1{
+    font-weight: 600;
+}
+h2{
+    color: white;
+    font-size: 2rem;
+}
+H3{
+    color: chartreuse;
+}
+
+.sellavera{
+    width: 100%;
+    height: 40rem;
+    color: greenyellow;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.data{
+    width: 100%;
+    height: 90vh;
+    padding: 4rem;
+    background-color: white;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    gap: 1rem;
+}
+.constant{
+    background-color: #080C2C;
+    color: white;
+}
+.result{
+    color: rgb(7, 7, 144);
+}
+.presentation{
+    color: rgb(255, 55, 0);
+}
+.students{
+    background-color:rgb(255, 55, 0) ;
+    color: greenyellow;
+    padding: 2rem;
+    width: 60%;
+}
+.studentsDetails{
+    background-color: rgb(14, 14, 155);
+    padding: 2rem ;
+    color: white;
+    width: 60%;
+}
+.studentsDetails span{
+    color:greenyellow;
+}
+.studentPart{
+    height: 65vh;
+    display: flex;
+    align-items: center;
+    background-color: whitesmoke;
+}
