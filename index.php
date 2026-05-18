@@ -382,9 +382,13 @@ $yunusName= "Yunus Sulaiman";
       elseif($score >= 50){
         $grade = "C";
       }
-      elseif($score >= 45){
-        $grade = "D";
-      }
+      
+
+
+
+
+
+      
       else{
        $grade = "F";
       }
